@@ -5,3 +5,5 @@ Second Step:
     Clear code on CSS by condensing similar codes.
 Third Step:
     Made sure the Webpage tittle appeared on the tab. 
+ Fourth Step:
+    Submitted project to GitHub and Canvas.
